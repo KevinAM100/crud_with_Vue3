@@ -96,7 +96,6 @@ export default {
             </div>
         </div>
     </div>
-<h1>List Users</h1>
 </template>
 
 <style scoped>
